@@ -2,4 +2,4 @@
 "Resume, a sheet info"
 
 # Have A look
-(" https://vishnutejk98.github.io/Info/ ")
+(" https://vishnutejk98.github.io/HTML-RESUME/ ")
